@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
 public class NIOSample {
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) {
     // File to read from
     File file = new File("src/weekone/labs/java/nio/data.txt");
 
